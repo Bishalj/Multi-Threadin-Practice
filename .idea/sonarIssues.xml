@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/Desktop/Bishal_Project/Git_Projects/DSA/src/Arrays/sa.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/controller/PolicyAPI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/login/service/impl/TurtleAdminUserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/services/IPolicyDetailService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/services/impl/MISFileManagerServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/services/impl/PolicyDetailServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/ProjectRepoBackend/ninja-service/turtlemint/test/com/admin/decentralised/operations/decentralisedrules/services/impl/DecentralisationRulesDerivationServiceImplTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/CompleCalculation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/DeadLock.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/HackerVaultProblem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
