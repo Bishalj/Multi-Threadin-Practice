@@ -3,7 +3,17 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$USER_HOME$/Desktop/Bishal_Project/Git_Projects/DSA/src/Arrays/FindNumInRotateArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Desktop/Bishal_Project/Git_Projects/DSA/src/Arrays/sa.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/dao/PolicyIssuanceElasticDAOImpl.java">
           <value>
             <set />
           </value>
@@ -14,6 +24,11 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/Desktop/ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/login/service/impl/TurtleAdminUserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/mapper/MISObjectMapperService.java">
           <value>
             <set />
           </value>
@@ -53,12 +68,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/FutureOperations.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/HackerVaultProblem.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ProducerConsumerPractice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/UnderstandingVisibilityProblem.java">
           <value>
             <set />
           </value>
