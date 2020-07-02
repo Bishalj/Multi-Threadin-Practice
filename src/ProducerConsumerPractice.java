@@ -82,5 +82,3 @@ public class ProducerConsumerPractice {
         consumer2.start();
     }
 }
-
-
