@@ -13,7 +13,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/Desktop/ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/api/PolicyIssuanceAPI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Desktop/ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/dao/PolicyIssuanceElasticDAOImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/config/ElasticRestClientConfiguration.java">
           <value>
             <set />
           </value>
@@ -69,6 +79,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/DeadLock.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/DeadLockPractice.java">
           <value>
             <set />
           </value>

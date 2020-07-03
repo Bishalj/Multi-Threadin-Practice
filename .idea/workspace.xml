@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c644f6a-1811-4a11-b40e-538dd8c6f551" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CyclicBarrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeadLockPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProducerConsumerPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProducerConsumerPractice.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,22 +27,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5594" />
+          <entry key="java" value="5923" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5594" />
+          <entry key="JAVA" value="5923" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="33" />
+          <entry key="java" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="33" />
+          <entry key="JAVA" value="40" />
         </counts>
       </usages-collector>
     </session>
@@ -51,10 +50,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ProducerConsumerPractice.java">
+        <entry file="file://$PROJECT_DIR$/src/FutureOperations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+            <state relative-caret-position="283">
+              <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,6 +75,7 @@
       <find>B</find>
       <find>B:</find>
       <find>Producer</find>
+      <find>Complet</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -89,10 +89,11 @@
         <option value="$PROJECT_DIR$/src/CompleCalculation.java" />
         <option value="$PROJECT_DIR$/src/DeadLock.java" />
         <option value="$PROJECT_DIR$/src/UnderstandingVisibilityProblem.java" />
-        <option value="$PROJECT_DIR$/src/FutureOperations.java" />
         <option value="$PROJECT_DIR$/src/CyclicBarrier.java" />
         <option value="$PROJECT_DIR$/src/CountDownLatch.java" />
         <option value="$PROJECT_DIR$/src/ProducerConsumerPractice.java" />
+        <option value="$PROJECT_DIR$/src/DeadLockPractice.java" />
+        <option value="$PROJECT_DIR$/src/FutureOperations.java" />
       </list>
     </option>
   </component>
@@ -135,7 +136,25 @@
               <item name="MultiThreading" type="b2602c69:ProjectViewProjectNode" />
               <item name="MultiThreading" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DeadLock.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="MultiThreading" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiThreading" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FutureOperations.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="MultiThreading" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiThreading" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Main" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="MultiThreading" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiThreading" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="UnderstandingVisibilityProblem.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -149,7 +168,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Runna&#9;PSI&#9;JAVA://java.lang.Runnable" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593693469682" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593771240057" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,7 +182,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Mains">
+  <component name="RunManager" selected="Application.DeadLockPractice">
+    <configuration name="DeadLockPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeadLockPractice" />
+      <module name="MultiThreading" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FutureOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FutureOperations" />
       <module name="MultiThreading" />
@@ -192,27 +218,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnderstandingVisibilityProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UnderstandingVisibilityProblem" />
-      <module name="MultiThreading" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Mains" />
-      <item itemvalue="Application.UnderstandingVisibilityProblem" />
       <item itemvalue="Application.FutureOperations" />
       <item itemvalue="Application.ProducerConsumerPractice" />
       <item itemvalue="Application.Operation" />
+      <item itemvalue="Application.DeadLockPractice" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeadLockPractice" />
         <item itemvalue="Application.Mains" />
         <item itemvalue="Application.Operation" />
         <item itemvalue="Application.ProducerConsumerPractice" />
         <item itemvalue="Application.FutureOperations" />
-        <item itemvalue="Application.UnderstandingVisibilityProblem" />
       </list>
     </recent_temporary>
   </component>
@@ -338,13 +357,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DeadLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/UnderstandingVisibilityProblem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -354,18 +366,6 @@
             <element signature="e#438#439#0" expanded="true" />
             <element signature="e#722#723#0" expanded="true" />
             <element signature="e#752#753#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FutureOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -464,8 +464,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ProducerConsumerPractice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="452">
           <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DeadLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DeadLockPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FutureOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
